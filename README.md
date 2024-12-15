@@ -13,6 +13,7 @@ The Brain Tumor Segmentation Challenge (BraTS) 2020 dataset is a publicly availa
 Here, we will use U-Net, a deep learning architecture specifically designed for semantic segmentation tasks, particularly in medical image analysis. It features a symmetric encoder-decoder structure where the encoder captures context through downsampling, and the decoder enables precise localization by upsampling. A distinctive feature of U-Net is the use of skip connections that link corresponding layers in the encoder and decoder, helping preserve fine-grained spatial details essential for accurate segmentation. U-Net is highly effective when working with limited training data, which is often the case in medical imaging, by utilizing data augmentation and its efficient design. It has become a widely-used model for tasks like organ segmentation, tumor detection, and other medical image analysis applications, offering high-resolution segmentation maps while maintaining computational efficiency.
 
 References
+
 1.https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 2.https://github.com/bnsreenu/python_for_microscopists/tree/master/231_234_BraTa2020_Unet_segmentation
 3.https://arxiv.org/abs/1505.04597
