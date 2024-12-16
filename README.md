@@ -17,3 +17,4 @@ References
 1.https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 2.https://github.com/bnsreenu/python_for_microscopists/tree/master/231_234_BraTa2020_Unet_segmentation
 3.https://arxiv.org/abs/1505.04597
+4.https://medium.com/@nghihuynh_37300/understanding-evaluation-metrics-in-medical-image-segmentation-d289a373a3f
